@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/OpenGL_Base_Layer/.vs/OpenGL_Base_Layer/v16/RC/Browse.VC.opendb
+/OpenGL_Base_Layer/.vs/OpenGL_Base_Layer/v16/RC/Browse.VC.db
+/OpenGL_Base_Layer/.vs/OpenGL_Base_Layer/v16
+/OpenGL_Base_Layer/Debug/OpenGL_B.5CF62803.tlog
+/OpenGL_Base_Layer/Release/OpenGL_B.5CF62803.tlog
+/.vs/OpenGL_PlayPit/v16
+/.vs
